@@ -6,8 +6,9 @@
     - Glassdoor
     - Blind
     - Reddit
-    After going through all these websites I would paste the interview experiences and the questions
-    IF you have less time you can directly searc 
+      
+After going through all these websites I would paste the interview experiences and the questions
+If you have less time you can directly search for the company and the role in the Perplexity
 - I will ask chagpt to refine the doc by just considering the  interview rounds, questions and topic to cover 
 - Then I will draft a plan on how to prepare for the interview 
 
